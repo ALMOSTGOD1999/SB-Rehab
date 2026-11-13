@@ -1,0 +1,5 @@
+- [x] Verify public details for SB REHAB CENTRE and avoid inventing contact or clinical facts.
+- [x] Build six linked pages with the requested five-therapy welcome animation.
+- [x] Add responsive styling, unique page metadata, and verify the main flow in preview.
+- [ ] Update the centre's map link to the supplied coordinates.
+- [ ] Add a public, persistent homepage rating and review form with required public-display consent, input validation, and a 75-word review limit.
